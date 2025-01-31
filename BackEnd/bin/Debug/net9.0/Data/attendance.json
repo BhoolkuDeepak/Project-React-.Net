@@ -1,0 +1,39 @@
+[
+  {
+    "AttendanceId": 1,
+    "EventId": 1,
+    "EventDate": "2025-01-30T00:00:00",
+    "AttendedMembers": [
+      1,
+      2
+    ]
+  },
+  {
+    "AttendanceId": 3,
+    "EventId": 1,
+    "EventDate": "2025-01-30T09:18:26.683Z",
+    "AttendedMembers": [
+      1,
+      3
+    ]
+  },
+  {
+    "AttendanceId": 4,
+    "EventId": 1,
+    "EventDate": "2025-01-30T09:34:16.467Z",
+    "AttendedMembers": [
+      1,
+      2
+    ]
+  },
+  {
+    "AttendanceId": 5,
+    "EventId": 2,
+    "EventDate": "2025-01-30T10:01:03.8Z",
+    "AttendedMembers": [
+      1,
+      2,
+      3
+    ]
+  }
+]

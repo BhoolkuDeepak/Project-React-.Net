@@ -1,0 +1,17 @@
+[
+  {
+    "MemberId": 1,
+    "Name": "John Doe",
+    "Contact": "123-456-7890"
+  },
+  {
+    "MemberId": 2,
+    "Name": "Jane Smith",
+    "Contact": "987-654-3210"
+  },
+  {
+    "MemberId": 3,
+    "Name": "Deepak",
+    "Contact": "123456789"
+  }
+]

@@ -1,6 +1,9 @@
 using Microsoft.AspNetCore.Builder;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
+using Microsoft.AspNetCore.Authentication.JwtBearer;
+using Microsoft.IdentityModel.Tokens;
+using System.Text;
 
 namespace BackEnd
 {
@@ -17,33 +20,49 @@ namespace BackEnd
                 {
                     webBuilder.ConfigureServices(services =>
                     {
-                        services.AddSingleton<JsonService>();  // Register JsonService
-                        services.AddControllers();  // Register controllers
+                        services.AddSingleton<JsonService>();  
+                        services.AddControllers();  
 
-                        // Register and enable CORS globally
                         services.AddCors(options =>
                         {
                             options.AddPolicy("AllowAll", builder =>
                             {
-                                builder.AllowAnyOrigin()    // Allow any origin
-                                       .AllowAnyMethod()    // Allow any HTTP method
-                                       .AllowAnyHeader();   // Allow any header
+                                builder.AllowAnyOrigin()    
+                                       .AllowAnyMethod()    
+                                       .AllowAnyHeader();   
                             });
                         });
-                    })
-                    .Configure((context, app) =>  // Use the 'context' here
-                    {
-                        var env = context.HostingEnvironment;  // Access IWebHostEnvironment
 
-                        if (env.IsDevelopment())  // Check environment
+                        services.AddAuthentication(JwtBearerDefaults.AuthenticationScheme)
+                            .AddJwtBearer(options =>
+                            {
+                                options.TokenValidationParameters = new TokenValidationParameters
+                                {
+                                    ValidateIssuer = true,
+                                    ValidateAudience = true,
+                                    ValidateLifetime = true,
+                                    ValidateIssuerSigningKey = true,
+                                    IssuerSigningKey = new SymmetricSecurityKey(Encoding.UTF8.GetBytes("your_secret_key")),  
+                                    ValidIssuer = "your_issuer",  
+                                    ValidAudience = "your_audience" 
+                                };
+                            });
+                    })
+                    .Configure((context, app) =>  
+                    {
+                        var env = context.HostingEnvironment;  
+
+                        if (env.IsDevelopment())  
                         {
-                            app.UseDeveloperExceptionPage();  // Use developer page in development
+                            app.UseDeveloperExceptionPage();  
                         }
 
-                        app.UseCors("AllowAll");  // Apply the "AllowAll" CORS policy globally
-                        app.UseRouting();  // Use routing
+                        app.UseCors("AllowAll");  
+                        app.UseAuthentication();  
+                        app.UseAuthorization();   
 
-                        // Map controllers
+                        app.UseRouting();  
+
                         app.UseEndpoints(endpoints =>
                         {
                             endpoints.MapControllers();

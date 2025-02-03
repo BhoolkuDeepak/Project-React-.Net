@@ -5,16 +5,13 @@ using System.Collections.Generic;
 [ApiController]
 public class AttendanceController : ControllerBase
 {
-    // Dependency Injection
     private readonly JsonService _jsonService;
 
-    // Constructor DI.
     public AttendanceController(JsonService jsonService)
     {
         _jsonService = jsonService;
     }
 
-    // Event APIs
     [HttpPost("events")]
     public ActionResult CreateEvent([FromBody] Event newEvent)
     {
@@ -28,7 +25,23 @@ public class AttendanceController : ControllerBase
         return Ok(_jsonService.GetEvents());
     }
 
-    // Member APIs
+
+
+
+
+    [HttpDelete("events/{eventId}")]
+    public ActionResult DeleteEvent(int eventId)
+    {
+        var eventToDelete = _jsonService.GetEventById(eventId);
+        if (eventToDelete == null)
+        {
+            return NotFound(); 
+        }
+
+        _jsonService.DeleteEvent(eventId); 
+        return NoContent(); 
+    }
+
     [HttpPost("members")]
     public ActionResult CreateMember([FromBody] Member member)
     {
@@ -40,9 +53,22 @@ public class AttendanceController : ControllerBase
     public ActionResult<IEnumerable<Member>> GetMembers()
     {
         return Ok(_jsonService.GetMembers());
-    } // <-- FIXED: Closing brace properly closes GetMembers()
+    } 
 
-    // Attendance APIs
+    [HttpDelete("members/{memberId}")]
+    public ActionResult DeleteMember(int memberId)
+    {
+        var memberToDelete = _jsonService.GetMembers().FirstOrDefault(m => m.MemberId == memberId);
+        if (memberToDelete == null)
+        {
+            return NotFound();  
+        }
+
+        _jsonService.DeleteMember(memberId);  
+        return NoContent();  
+    }
+
+
     [HttpPost("attendance")]
     public ActionResult CreateAttendance([FromBody] Attendance attendance)
     {

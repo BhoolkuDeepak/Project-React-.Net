@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\BackEnd",
+    "\\BackEnd\\bin",
+    "\\BackEnd\\Controllers",
+    "\\BackEnd\\Data",
+    "\\BackEnd\\Models",
+    "\\BackEnd\\Services"
+  ],
+  "SelectedNode": "\\BackEnd\\BackEnd.http",
+  "PreviewInSolutionExplorer": false
+}

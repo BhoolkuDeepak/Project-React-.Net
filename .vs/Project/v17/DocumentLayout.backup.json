@@ -1,0 +1,283 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\2020704\\source\\repos\\GameStoresr\\Project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\2020704\\source\\repos\\GameStoresr\\Project\\BackEnd\\BackEnd.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BackEnd\\BackEnd.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\2020704\\source\\repos\\GameStoresr\\Project\\BackEnd\\Models\\Event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BackEnd\\Models\\Event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\2020704\\source\\repos\\GameStoresr\\Project\\BackEnd\\Controllers\\AttendanceController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BackEnd\\Controllers\\AttendanceController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\2020704\\source\\repos\\GameStoresr\\Project\\BackEnd\\Models\\Admin.cs||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BackEnd\\Models\\Admin.cs||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\2020704\\source\\repos\\GameStoresr\\Project\\BackEnd\\Data\\Admin.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BackEnd\\Data\\Admin.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\2020704\\source\\repos\\GameStoresr\\Project\\BackEnd\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BackEnd\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\2020704\\source\\repos\\GameStoresr\\Project\\BackEnd\\WeatherForecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BackEnd\\WeatherForecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\2020704\\source\\repos\\GameStoresr\\Project\\BackEnd\\Data\\members.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BackEnd\\Data\\members.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\2020704\\source\\repos\\GameStoresr\\Project\\BackEnd\\Models\\Member.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BackEnd\\Models\\Member.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\2020704\\source\\repos\\GameStoresr\\Project\\BackEnd\\Models\\Attendance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BackEnd\\Models\\Attendance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\2020704\\source\\repos\\GameStoresr\\Project\\BackEnd\\Data\\attendance.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BackEnd\\Data\\attendance.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\2020704\\source\\repos\\GameStoresr\\Project\\BackEnd\\Data\\events.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BackEnd\\Data\\events.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\2020704\\source\\repos\\GameStoresr\\Project\\BackEnd\\Controllers\\WeatherForecastController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BackEnd\\Controllers\\WeatherForecastController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\2020704\\source\\repos\\GameStoresr\\Project\\BackEnd\\BackEnd.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BackEnd\\BackEnd.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\2020704\\source\\repos\\GameStoresr\\Project\\BackEnd\\Services\\JsonService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BackEnd\\Services\\JsonService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\2020704\\source\\repos\\GameStoresr\\Project\\BackEnd\\BackEnd.csproj.user||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BackEnd\\BackEnd.csproj.user||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 13,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Admin.json",
+              "DocumentMoniker": "C:\\Users\\2020704\\source\\repos\\GameStoresr\\Project\\BackEnd\\Data\\Admin.json",
+              "RelativeDocumentMoniker": "BackEnd\\Data\\Admin.json",
+              "ToolTip": "C:\\Users\\2020704\\source\\repos\\GameStoresr\\Project\\BackEnd\\Data\\Admin.json",
+              "RelativeToolTip": "BackEnd\\Data\\Admin.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-30T10:39:20.925Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Admin.cs",
+              "DocumentMoniker": "C:\\Users\\2020704\\source\\repos\\GameStoresr\\Project\\BackEnd\\Models\\Admin.cs",
+              "RelativeDocumentMoniker": "BackEnd\\Models\\Admin.cs",
+              "ToolTip": "C:\\Users\\2020704\\source\\repos\\GameStoresr\\Project\\BackEnd\\Models\\Admin.cs",
+              "RelativeToolTip": "BackEnd\\Models\\Admin.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T10:37:38.958Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "attendance.json",
+              "DocumentMoniker": "C:\\Users\\2020704\\source\\repos\\GameStoresr\\Project\\BackEnd\\Data\\attendance.json",
+              "RelativeDocumentMoniker": "BackEnd\\Data\\attendance.json",
+              "ToolTip": "C:\\Users\\2020704\\source\\repos\\GameStoresr\\Project\\BackEnd\\Data\\attendance.json",
+              "RelativeToolTip": "BackEnd\\Data\\attendance.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-30T09:51:23.791Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Users\\2020704\\source\\repos\\GameStoresr\\Project\\BackEnd\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "BackEnd\\WeatherForecast.cs",
+              "ToolTip": "C:\\Users\\2020704\\source\\repos\\GameStoresr\\Project\\BackEnd\\WeatherForecast.cs",
+              "RelativeToolTip": "BackEnd\\WeatherForecast.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T07:18:17.121Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Attendance.cs",
+              "DocumentMoniker": "C:\\Users\\2020704\\source\\repos\\GameStoresr\\Project\\BackEnd\\Models\\Attendance.cs",
+              "RelativeDocumentMoniker": "BackEnd\\Models\\Attendance.cs",
+              "ToolTip": "C:\\Users\\2020704\\source\\repos\\GameStoresr\\Project\\BackEnd\\Models\\Attendance.cs",
+              "RelativeToolTip": "BackEnd\\Models\\Attendance.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T07:14:29.375Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Member.cs",
+              "DocumentMoniker": "C:\\Users\\2020704\\source\\repos\\GameStoresr\\Project\\BackEnd\\Models\\Member.cs",
+              "RelativeDocumentMoniker": "BackEnd\\Models\\Member.cs",
+              "ToolTip": "C:\\Users\\2020704\\source\\repos\\GameStoresr\\Project\\BackEnd\\Models\\Member.cs",
+              "RelativeToolTip": "BackEnd\\Models\\Member.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T07:14:11.467Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Event.cs",
+              "DocumentMoniker": "C:\\Users\\2020704\\source\\repos\\GameStoresr\\Project\\BackEnd\\Models\\Event.cs",
+              "RelativeDocumentMoniker": "BackEnd\\Models\\Event.cs",
+              "ToolTip": "C:\\Users\\2020704\\source\\repos\\GameStoresr\\Project\\BackEnd\\Models\\Event.cs",
+              "RelativeToolTip": "BackEnd\\Models\\Event.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T07:12:37.203Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\2020704\\source\\repos\\GameStoresr\\Project\\BackEnd\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "BackEnd\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\2020704\\source\\repos\\GameStoresr\\Project\\BackEnd\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "BackEnd\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T07:12:29.586Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AttendanceController.cs",
+              "DocumentMoniker": "C:\\Users\\2020704\\source\\repos\\GameStoresr\\Project\\BackEnd\\Controllers\\AttendanceController.cs",
+              "RelativeDocumentMoniker": "BackEnd\\Controllers\\AttendanceController.cs",
+              "ToolTip": "C:\\Users\\2020704\\source\\repos\\GameStoresr\\Project\\BackEnd\\Controllers\\AttendanceController.cs",
+              "RelativeToolTip": "BackEnd\\Controllers\\AttendanceController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T07:12:06.802Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "members.json",
+              "DocumentMoniker": "C:\\Users\\2020704\\source\\repos\\GameStoresr\\Project\\BackEnd\\Data\\members.json",
+              "RelativeDocumentMoniker": "BackEnd\\Data\\members.json",
+              "ToolTip": "C:\\Users\\2020704\\source\\repos\\GameStoresr\\Project\\BackEnd\\Data\\members.json",
+              "RelativeToolTip": "BackEnd\\Data\\members.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-30T07:12:02.457Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "JsonService.cs",
+              "DocumentMoniker": "C:\\Users\\2020704\\source\\repos\\GameStoresr\\Project\\BackEnd\\Services\\JsonService.cs",
+              "RelativeDocumentMoniker": "BackEnd\\Services\\JsonService.cs",
+              "ToolTip": "C:\\Users\\2020704\\source\\repos\\GameStoresr\\Project\\BackEnd\\Services\\JsonService.cs",
+              "RelativeToolTip": "BackEnd\\Services\\JsonService.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAiwFEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T07:11:09.624Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "events.json",
+              "DocumentMoniker": "C:\\Users\\2020704\\source\\repos\\GameStoresr\\Project\\BackEnd\\Data\\events.json",
+              "RelativeDocumentMoniker": "BackEnd\\Data\\events.json",
+              "ToolTip": "C:\\Users\\2020704\\source\\repos\\GameStoresr\\Project\\BackEnd\\Data\\events.json",
+              "RelativeToolTip": "BackEnd\\Data\\events.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-30T07:11:05.337Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BackEnd.http",
+              "DocumentMoniker": "C:\\Users\\2020704\\source\\repos\\GameStoresr\\Project\\BackEnd\\BackEnd.http",
+              "RelativeDocumentMoniker": "BackEnd\\BackEnd.http",
+              "ToolTip": "C:\\Users\\2020704\\source\\repos\\GameStoresr\\Project\\BackEnd\\BackEnd.http",
+              "RelativeToolTip": "BackEnd\\BackEnd.http",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAowBAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-01-30T06:47:54.474Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "BackEnd.csproj",
+              "DocumentMoniker": "C:\\Users\\2020704\\source\\repos\\GameStoresr\\Project\\BackEnd\\BackEnd.csproj",
+              "RelativeDocumentMoniker": "BackEnd\\BackEnd.csproj",
+              "ToolTip": "C:\\Users\\2020704\\source\\repos\\GameStoresr\\Project\\BackEnd\\BackEnd.csproj",
+              "RelativeToolTip": "BackEnd\\BackEnd.csproj",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAgwAMAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-30T06:29:49.467Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "BackEnd.csproj.user",
+              "DocumentMoniker": "C:\\Users\\2020704\\source\\repos\\GameStoresr\\Project\\BackEnd\\BackEnd.csproj.user",
+              "RelativeDocumentMoniker": "BackEnd\\BackEnd.csproj.user",
+              "ToolTip": "C:\\Users\\2020704\\source\\repos\\GameStoresr\\Project\\BackEnd\\BackEnd.csproj.user",
+              "RelativeToolTip": "BackEnd\\BackEnd.csproj.user",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003464|",
+              "WhenOpened": "2025-01-30T06:29:48.633Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\2020704\\source\\repos\\GameStoresr\\Project\\BackEnd\\Program.cs",
+              "RelativeDocumentMoniker": "BackEnd\\Program.cs",
+              "ToolTip": "C:\\Users\\2020704\\source\\repos\\GameStoresr\\Project\\BackEnd\\Program.cs",
+              "RelativeToolTip": "BackEnd\\Program.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAkwCUAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T06:25:50.65Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

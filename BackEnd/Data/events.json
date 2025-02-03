@@ -1,0 +1,50 @@
+[
+  {
+    "EventId": 1,
+    "EventName": "Team Meeting",
+    "Timings": "10:00 AM",
+    "Location": "Office Conference Room",
+    "IsRecurring": true,
+    "RecurringDay": "Tuesday"
+  },
+  {
+    "EventId": 2,
+    "EventName": "Quiz",
+    "Timings": "6:00 AM",
+    "Location": "Online",
+    "IsRecurring": true,
+    "RecurringDay": "Monday"
+  },
+  {
+    "EventId": 3,
+    "EventName": "Team Meeting",
+    "Timings": "10:00 AM",
+    "Location": "Office Conference Room",
+    "IsRecurring": true,
+    "RecurringDay": "Tuesday"
+  },
+  {
+    "EventId": 4,
+    "EventName": "Cricket",
+    "Timings": "6:00 PM",
+    "Location": "Thane",
+    "IsRecurring": true,
+    "RecurringDay": "Friday"
+  },
+  {
+    "EventId": 5,
+    "EventName": "Team Meeting",
+    "Timings": "10:00 AM",
+    "Location": "Office Conference Room",
+    "IsRecurring": true,
+    "RecurringDay": "Tuesday"
+  },
+  {
+    "EventId": 6,
+    "EventName": "Diwali",
+    "Timings": "9.00 AM",
+    "Location": "Andheri",
+    "IsRecurring": false,
+    "RecurringDay": ""
+  }
+]
